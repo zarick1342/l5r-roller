@@ -1,1 +1,3 @@
-roller-script
+This is a Roll20 script to roll dice for the L5R FFG Beta. It's not that good, but it's better than nothing.
+
+To use, drop it in a script in your Roll20 API Scripts panel (Pro users only, sorry). Then to roll, type "!l5r 3r 3s" in chat, where the number is how many dice you want to roll, r for ring, s for skill. There's no fancy way to do keeping and the styles are pretty basic, but it works for me.
